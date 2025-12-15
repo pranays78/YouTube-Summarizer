@@ -8,7 +8,7 @@ A **Flask-based REST API backend** is used to handle transcript processing and s
 ---
 
 ## 📌 Project Workflow
-![Project Stages](/extention/images/stages.png?raw=true)
+![Project Stages](https://github.com/pranays78/YouTube-Summarizer/blob/master/YouTube-Transcript-Summarizer-main/images/stages.png)
 
 ---
 
