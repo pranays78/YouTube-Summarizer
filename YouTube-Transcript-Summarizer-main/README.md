@@ -25,7 +25,7 @@ A **Flask-based REST API backend** is used to handle transcript processing and s
 ---
 
 ## 📸 Output Preview
-![Output Screenshot](/extention/images/output.png?raw=true)
+![Output Screenshot](/extension/images/output.png?raw=true)
 
 ---
 
